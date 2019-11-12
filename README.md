@@ -8,7 +8,14 @@ Foi analisado os dados do censo escolar do INEP, referente ao período de 2012 a
 3. Houve uma melhora grande na quantidade de escolas que não possuem cozinha E refeitório (as escolas tem pelo menos um: ou cozinha, ou refeitório, ou os dois)
   
 ## Importante
-Alguns dados não foram obtidos pelo INEP, logo a análise não é 100% precisa quando se considera **TODAS** as escolas.
+Alguns dados não foram obtidos pelo INEP, logo a análise não é 100% precisa quando se considera **TODAS** as escolas.  
+
+#####Para instalar o necessário, baixe o arquivo requirements, vá no CMD (Windows + R, digite cmd)  
+escreva o seguinte comando: pip install -r requirements.txt  
+Para rodar o jupyter notebook, digite no cmd: jupyter notebook  
+Por padrão, ele irá rodar dentro da unidade C em usuário/seuUsuário  
+Se quiser rodar o jupyter em outro diretório, use: jupyter notebook --notebook-dir=coloque/seu/diretório  
+
 
 ###### ______________________________________________________________________________________________________________________________________________________
 
