@@ -9,3 +9,8 @@ Foi analisado os dados do censo escolar do INEP, referente ao período de 2012 �
   
 ## Importante
 Alguns dados não foram obtidos pelo INEP, logo a análise não é 100% precisa quando se considera **TODAS** as escolas.
+
+###### ______________________________________________________________________________________________________________________________________________________
+
+###### Desenvolvido por: Denis Lima
+###### Origem dos dados: [Microdados do INEP - Censo escolar, de 2012 a 2018](http://inep.gov.br/microdados)
